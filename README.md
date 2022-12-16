@@ -21,6 +21,7 @@
 ![](screenshots/max_03.png)
 ![](screenshots/zbrush_01.png)
 ![](screenshots/zbrush_02.png)
+![](screenshots/max_02.png)
 ![](screenshots/painter_01.png)
 ![](screenshots/texture.png)
 ![](screenshots/unreal_01.png)
